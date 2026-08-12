@@ -9,6 +9,8 @@
 
 name: CI
 
+# Verify every exercise on both supported desktop platforms.
+
 on:
   pull_request:
   push:
